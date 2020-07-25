@@ -299,6 +299,64 @@ body {
   right: 0px;
 }
 
+.items .openButton2 {
+  float: left;
+  left: -300px;
+  -webkit-transition: all 0.5s linear, 1s;
+  -moz-transition: all 0.5s linear, 1s;
+  -o-transition: all 0.5s linear, 1s;
+  transition: all 0.5s linear, 1s;
+}
+
+.items .projectLink2 {
+  float: right;
+  right: -300px;
+  -webkit-transition: all 0.5s linear, 1s;
+  -moz-transition: all 0.5s linear, 1s;
+  -o-transition: all 0.5s linear, 1s;
+  transition: all 0.5s linear, 1s;
+}
+
+.items .item:hover .openButton2 {
+  left: 0px;
+}
+
+.items .item:hover .projectLink2 {
+  right: 0px;
+}
+
+.items .openButton3 {
+  float: left;
+  left: -600px;
+  -webkit-transition: all 0.5s linear, 1s;
+  -moz-transition: all 0.5s linear, 1s;
+  -o-transition: all 0.5s linear, 1s;
+  transition: all 0.5s linear, 1s;
+}
+
+.items .projectLink3 {
+  float: right;
+  right: -600px;
+  -webkit-transition: all 0.5s linear, 1s;
+  -moz-transition: all 0.5s linear, 1s;
+  -o-transition: all 0.5s linear, 1s;
+  transition: all 0.5s linear, 1s;
+}
+
+.items .item:hover .openButton3 {
+  left: 0px;
+}
+
+.items .item:hover .projectLink3 {
+  right: 0px;
+}
+
+/* 
+
+
+
+*/
+
 .items .item:hover img {
   -webkit-transform: scale(1.05, 1.05);
   -moz-transform: scale(1.05, 1.05);

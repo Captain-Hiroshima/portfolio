@@ -45,7 +45,7 @@ $(document).ready(function () {
         items: 3,
       },
       938: {
-        items: 4,
+        items: 5,
       },
     },
   });
