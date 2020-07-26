@@ -70,7 +70,7 @@ body {
 
 .skillsSection,
 .contactSection {
-  background-color: #7f7aaa;
+  background-color: #ff3333;
   color: #fff;
 }
 
@@ -138,13 +138,13 @@ body {
   font-size: 56px;
   margin-bottom: 10px;
   font-weight: 400;
-  color: #7f7aaa;
+  color: #ff3333;
 }
 
 .squareContent h3 {
   font-size: 14px;
   font-weight: 600;
-  color: #7f7aaa;
+  color: #ff3333;
 }
 
 .squareIcon {
@@ -155,7 +155,7 @@ body {
   height: 60px;
   font-size: 45px;
   margin-left: -20%;
-  color: #7f7aaa;
+  color: #ff3333;
 }
 
 .contactButton {
@@ -169,7 +169,7 @@ body {
 
 .contactButton:hover {
   text-decoration: none;
-  color: #7f7aaa;
+  color: #ff3333;
   background-color: white;
 }
 
@@ -186,8 +186,8 @@ body {
 }
 
 .filter .current {
-  background-color: #7f7aaa;
-  border-color: #7f7aaa;
+  background-color: #ff3333;
+  border-color: #ff3333;
   color: white;
 }
 
@@ -245,7 +245,7 @@ body {
 .items a {
   width: 40px;
   height: 40px;
-  background-color: #7f7aaa;
+  background-color: #ff3333;
   position: relative;
   display: inline-block;
 }
@@ -365,7 +365,7 @@ body {
 }
 
 .copyrightSection {
-  background-color: #7f7aaa;
+  background-color: #ff3333;
   color: white;
   padding: 30px 5px;
 }
@@ -375,7 +375,7 @@ body {
 }
 
 #navigation {
-  background-color: #7f7aaa;
+  background-color: #ff3333;
   padding: 20px 10px;
   z-index: 100;
   width: 100%;
